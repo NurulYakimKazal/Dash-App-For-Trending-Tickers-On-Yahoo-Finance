@@ -6,7 +6,7 @@ As expected, these stock prices data are exhibited by the candlestick chart, whi
 
 In addition, it also shows few key performance indicators of the shown ticker, like:
 1. The current price and its relative change (with respect to the one on previous interval)
-2. The current price vs 52 week range
+2. The current price vs 52-week range
 3. The market capitalization
 
 Since the trending tickers on Yahoo Finance are dynamic, the users can always refresh the ticker list provided in the dropdown by clicking the update-ticker button.
