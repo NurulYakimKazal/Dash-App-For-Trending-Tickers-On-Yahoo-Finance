@@ -23,5 +23,3 @@ For its technical details, the dashboard is built by taking advantage of some Py
 The dash and dash-bootstrap-components are used to build the layout and functionality of the dashboard, while plotly is used for creating the graphs displayed on it. 
 Moreover, the requests and bs4 (BeautifulSoup) are utilized for scraping the list of trending tickers on Yahoo Finance. 
 Lastly, yfinance and yahoofinancials are the libraries used for getting the stock price and fundamental data from the aforementioned website.
-
-Visit [TrendingTickers.pythonanywhere.com](https://trendingtickers.pythonanywhere.com/) to see the dashboard in action!
